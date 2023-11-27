@@ -1,4 +1,8 @@
-### Hi there 👋
+### Moin everbody, 👋
+i am a student at neue fische and will become a web dev soon. 
+I worked severel years as a banker for some big banks in germany, now its time to start something new.
+
+
 
 <!--
 **nadine-grantz/nadine-grantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
