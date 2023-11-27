@@ -7,7 +7,7 @@ What am I doing in my lesure time?
 
 - I really love travelling around the world, its the best time in the year to see something new und make new experiences
 - Planting my own little flat, I have severel plants in my flat, trying to give them a good and happy home
-- ...drinking coffee, what can make you happier than coffee. [Guter Kaffee]([https://www.example.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.betzold.de%2Fblog%2Fkaffee-lehrer%2F&psig=AOvVaw1pZPTSZ7OWnfVk6lrBADsK&ust=1701184378390000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCW9um75IIDFQAAAAAdAAAAABAD))
+- ...drinking coffee, what can make you happier than coffee. [Guter Kaffee](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.betzold.de%2Fblog%2Fkaffee-lehrer%2F&psig=AOvVaw1pZPTSZ7OWnfVk6lrBADsK&ust=1701184378390000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCW9um75IIDFQAAAAAdAAAAABAD)
 
 Feel free to connect, via linkedin, github or any other network :)
 
