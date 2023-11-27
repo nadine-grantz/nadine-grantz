@@ -9,7 +9,7 @@ What am I doing in my lesure time?
 - Planting my own little flat, I have severel plants in my flat, trying to give them a good and happy home
 - ...drinking coffee, what can make you happier than coffee
 
-
+Feel free to connect, via linkedin, github or any other network :)
 
 <!--
 **nadine-grantz/nadine-grantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
