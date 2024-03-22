@@ -1,16 +1,16 @@
-## Moin everbody, 👋
 
-##### i am a student at neue fische and will become a web dev soon. 
-##### I worked severel years as a banker for some big banks in germany, now its time to start something new.
+Introduction:
+Hi there! 👋 I'm embarking on an exciting new chapter, transitioning from several years in sales within the banking sector to diving headfirst into the world of web development.
 
-What am I doing in my lesure time?
+Background:
+I worked in sales for several years in different banks and was able to gain a lot of experience in different client. I have also trained as a business economist to understand complex business management concepts
 
-- I really love travelling around the world, its the best time in the year to see something new und make new experiences
-- Planting my own little flat, I have severel plants in my flat, trying to give them a good and happy home
-- ...drinking coffee, what can make you happier than coffee. [Guter Kaffee](https://www.betzold.de/media/i/Kaffee-blog-depositphotos-springfield-32272-8.jpg)
+Interests:
+Beyond coding, I'm an avid traveler, finding inspiration in new cultures and experiences. I also have a green thumb, finding joy in nurturing plants – setbacks included, for there's nothing quite as rewarding as witnessing new growth.
 
-Feel free to connect, via linkedin, github or any other network :)
+Current Focus:
+Every day, I'm dedicated to honing my skills in HTML, CSS, and JavaScript, eager to explore the endless possibilities of web development.
 
-![Holiday](https://github.com/nadine-grantz/nadine-grantz/assets/152076100/b9da3203-799e-4140-a474-145d13131345)
-
+Conclusion:
+Join me on this journey of growth and discovery, where every challenge is an opportunity and every line of code brings me closer to realizing my dreams. 🌱💻 
 
