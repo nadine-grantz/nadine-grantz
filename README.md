@@ -1,5 +1,4 @@
 
-Introduction:
 Hi there! 👋 I'm embarking on an exciting new chapter, transitioning from several years in sales within the banking sector to diving headfirst into the world of web development.
 
 Background:
