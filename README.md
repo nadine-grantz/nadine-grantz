@@ -1,5 +1,6 @@
 
-Hi there! 👋 I'm embarking on an exciting new chapter, transitioning from several years in sales within the banking sector to diving headfirst into the world of web development.
+Hi there! 👋 
+I'm embarking on an exciting new chapter, transitioning from several years in sales within the banking sector to diving headfirst into the world of web development.
 
 Background:
 I worked in sales for several years in different banks and was able to gain a lot of experience in different client. I have also trained as a business economist to understand complex business management concepts
